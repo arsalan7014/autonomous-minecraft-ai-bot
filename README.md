@@ -1,4 +1,3 @@
-# autonomous-minecraft-ai-bot
 # Autonomous Minecraft AI Bot 🤖⛏️
 
 A fully autonomous AI-powered Minecraft bot with advanced learning capabilities, environmental awareness, and self-improving gameplay. Inspired by the Voyager research project, this bot can survive, learn, and thrive in Minecraft worlds without human intervention.
