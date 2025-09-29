@@ -1,0 +1,40 @@
+{
+  "name": "autonomous-minecraft-ai-bot",
+  "version": "1.0.0",
+  "description": "A fully autonomous AI Minecraft bot with learning capabilities, inspired by Voyager. Features environmental awareness, skill library, task management, and continuous improvement through experience.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --inspect src/index.js",
+    "test": "node examples/basic-setup.js"
+  },
+  "keywords": [
+    "minecraft",
+    "ai",
+    "bot",
+    "autonomous",
+    "machine-learning",
+    "pathfinding",
+    "gaming-ai",
+    "skill-learning",
+    "voyager-inspired"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "mineflayer": "^4.17.0",
+    "mineflayer-pathfinder": "^2.4.0",
+    "axios": "^1.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arsalan7014/autonomous-minecraft-ai-bot"
+  },
+  
+}
